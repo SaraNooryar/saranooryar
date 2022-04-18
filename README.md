@@ -3,7 +3,6 @@
 
 
 <img src="https://github.com/SaraNooryar/sara/blob/main/girl%20coding.gif" width="200" height="200" />
-<p align="left"> <img src="https://github.com/SaraNooryar/saranooryar/upload/main" alt="saranooryar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranooryar" alt="saranooryar" /></a> </p>
 

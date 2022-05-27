@@ -2,7 +2,7 @@
 <h3 align="center">A Girl trying To Figure-Out stuff!!!</h3>
 
 
-<img src="https://github.com/SaraNooryar/saranooryar/blob/main/girl%20coding.gif" width="250" height="250" />
+<img  alt = "gif" src="https://github.com/SaraNooryar/saranooryar/blob/main/girl%20coding.gif" width="320" height="300" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranooryar" alt="saranooryar" /></a> </p>
 

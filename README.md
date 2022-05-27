@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sara Nooryar</h1>
 <h3 align="center">A Girl trying To Figure-Out stuff!!!</h3>
 
-<img  alt = "gif" src="https://github.com/SaraNooryar/saranooryar/blob/main/girl%20coding.gif" width="420" height="300" />
+![coding](https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranooryar" alt="saranooryar" /></a> </p>
 

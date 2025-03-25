@@ -4,6 +4,7 @@
 ![coding](https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranooryar&show_icons=true&locale=en&layout=compact" alt="saranooryar" /></p>
 
 
 

@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranooryar" alt="saranooryar" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranooryar&show_icons=true&locale=en&layout=compact" alt="saranooryar" /></p>
 <p align="left"> <a href="https://twitter.com/nooryarsara" target="blank"><img src="https://img.shields.io/twitter/follow/nooryarsara?logo=twitter&style=for-the-badge" alt="nooryarsara" /></a> </p>
 
 

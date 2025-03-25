@@ -20,11 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nooryarsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nooryarsara" height="30" width="40" /></a>
-</p>
-
-
-
-<p align="left"> <a href="https://twitter.com/nooryarsara" target="blank"><img src="https://img.shields.io/twitter/follow/nooryarsara?logo=twitter&style=for-the-badge" alt="nooryarsara" /></a> </p>
+</p><p align="left"> <a href="https://twitter.com/nooryarsara" target="blank"><img src="https://img.shields.io/twitter/follow/nooryarsara?logo=twitter&style=for-the-badge" alt="nooryarsara" /></a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranooryar&show_icons=true&locale=en" alt="saranooryar" /></p>
